@@ -26,7 +26,7 @@ The instructor brings over 13 years of experience in IT and education. Starting 
 - Developed numerous training programs for junior engineers.
 - Currently working as an AI engineer focusing on multi-agent orchestration frameworks.
 
-![Instructor Background](/mnt/data/A_visually_captivating_image_symbolizing_generativ.png) <!-- Replace with actual image path -->
+![Instructor Background](three.png) <!-- Replace with actual image path -->
 
 ## Learning Objectives
 Participants will leave the course with:
@@ -35,9 +35,9 @@ Participants will leave the course with:
 - Insights into the ethical considerations surrounding AI technologies.
 - The ability to develop and present a capstone project demonstrating their skills.
 
-![Learning Objectives](/mnt/data/A_visually_captivating_image_symbolizing_generativ.png) <!-- Replace with actual image path -->
+![Learning Objectives](four.png) <!-- Replace with actual image path -->
 
 ## Conclusion
 This generative AI training course promises to be an engaging and informative experience for all participants. With a well-structured curriculum led by an experienced instructor, students are set to gain valuable skills that are increasingly relevant in today's job market.
 
-![Future of AI](/mnt/data/A_visually_captivating_image_symbolizing_generativ.png) <!-- Replace with actual image path -->
+![Future of AI](five.png) <!-- Replace with actual image path -->
