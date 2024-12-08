@@ -3,7 +3,7 @@
 ## Introduction
 In today's rapidly evolving technological landscape, understanding generative AI is not just beneficial; it's essential. This blog post delves into an exciting training course on generative AI, highlighting its structure, objectives, and the expertise of the instructor leading the sessions.
 
-![Generative AI Concept](/mnt/data/A_visually_captivating_image_symbolizing_generativ.png) <!-- Replace with actual image path -->
+![Generative AI Concept](first.webp) <!-- Replace with actual image path -->
 
 ## Course Overview
 The generative AI training is designed as part of a master's degree program, aiming to equip participants with essential knowledge and skills in AI and machine learning. The course is structured to cover various topics over several sessions, ensuring a comprehensive understanding of generative AI.
@@ -16,7 +16,7 @@ The course consists of several key components:
 - **Ethics and Regulations**: Discussing the ethical implications of AI technologies.
 - **Capstone Project**: A final project that synthesizes learning outcomes.
 
-![Course Structure](/mnt/data/A_visually_captivating_image_symbolizing_generativ.png) <!-- Replace with actual image path -->
+![Course Structure](second.webp) <!-- Replace with actual image path -->
 
 ## Instructor's Background
 The instructor brings over 13 years of experience in IT and education. Starting as an integration test engineer, they have transitioned through various roles, including consultant and head of education in Western Central Asia. Their extensive background in software testing and automation, combined with a passion for teaching, makes them well-suited to guide students through this complex subject.
