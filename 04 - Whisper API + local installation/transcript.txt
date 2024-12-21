@@ -1,495 +1,522 @@
- Good evening
-guys
-Good evening
-Hello
-Do you choose the
-Mr
-Stage is all or not yet
-Do they are anyone who
-
-choose the team
-Maybe to the
-Let's go
-Oh
-so
-Like sure
-Today is a deadline
-yeah
-It's just a
-By the way
-by the way
-do we have strict delays for homework
-guys
-No
-isn't that strict because
-No
-no
-no
-it's not
-
-did
-Yeah
-it was
-By the
-but 
-would suggest to find at least like
-10 to 15 minutes every day
-How 
-am because when it will come at the end
-It will be like everything
-you know
-so at least I'm just trying to find 10 to 15 20 minutes doing doing like by small
-small
-small parts
-Then 
-think
-I'm more from this course or
-I'm others
-Any 
-think
-Other courses
-
-think they didn't give you homework yet
-Yeah
-they give
-They gave
-Data
-Processing they gave it gave
-He gave yesterday
-
-think this file formats
-I
-
-yesterday
-
-missed the classes
-They will watch it
-Hmm
-Hey
-yes
-Chloe
-darling
-Hello
-darling
-All right
-
-have a question
-About the future
-If you see
-so today is a goal and Google introduced it quantum computers
-Yeah
-our second lesson you said that there is a problem with the model because they have a resource problem and what will be in the future about it because if Google
-If we have they have a quantum computers
-
-mean
-they have a huge result results
-And how they will
-Yeah
-so that's that's really good
-It's interesting question
-
-don't know how they work like only very general concept of these cubies
-
-still
-you know
-I've been studying quantum physics in university
-like at least one year
-probably two years
-
-can't remember
-So a lot of electronics works on quantum effects
-So for example
-some
-Some staff allows the electrons to jump the barrier
-They like actually cannot jump
-So they like tunneling through that
-And no
-no
-it's like how it works
-but it works and we use it in TVs and smartphones
-Like some kind of some kind of magic
-It's still 
-think they should be some kind of scientific explanation that
-
-don't know like how these quantum computers work
-
-don't understand the concept of like something having the value of zero and one at the same time because
-Like
-okay
-you can imagine that
-but how about the storage
-right
-So if 
-talk about like HD
-or SSD
-any storage
-so you need to write it
-And you need to like you should be able to read it in the future
-And the most fear like two fears 
-remember like from the community regarding quantum computers is
-okay
-if they are so like powerful and can make like much more like 
-don't know
-millions times
-computations per second
-So 
-don't know about the encryption
-right
-So every say or any other encryption algorithm
-So basically encryption works like modern encryption works on the very basic example
-like
-There are how how is called like one way function in mass
-
-don't know how is in English
-So so the way like it's it's very easy to calculate this
-for example
-it's very easy to multiply to prime integers and get the result
-but it's super hard to understand like what
-What are the integers you multiply it if you received like this result and
-
-lot of encryption is based on that and actually Bitcoin is based on that so Bitcoin has several like Bitcoin has a lot of protocols inside like technologies and most of them like top tier encryption we have right now
-So if Google can beat that so they can possibly like hijack all the new bitcoins
-Maybe they can rewrite the whole Bitcoin like the whole blockchain like in a day and 
-didn't know like still all the bitcoins from us
-
-lot of like military applications like all this encryption and networking
-So 
-don't know it's technically possible that the such technology can can appear
-but
-Taking an account how much time and money and resources and smart people it takes to build such thing
-So maybe the first country which builds it and you know like who creates some kind of like snow crash
-Like from cyberpunk books
-
-don't know so we'll see
-At least like 
-know like from from from what 
-understand like 
-
-history and technology history like all the new like top tier technologies they have like two applications like the two industries basically driving them fast in and like making them broadly available is
-So this is like two things usually picking up the latest stage and trying to get like money of that and maybe one of them will pick it up
-
-don't know maybe military first
-
-think 
-can see any applications of quantum stuff
-But from personal perspective like being a human like 
-don't know like 
-see guys
-Yeah that's interesting
-but unless 
-cannot benefit from that 
-can as unless 
-cannot earn money doing that
-And it's inevitable for me like the sun the sun just can stop
-
-don't know like okay
-But example because the earth's rotates across the sun so the earth can just stop rotating and it will be infinite night for me
-
-can't do anything about that 
-can do anything about rain so what 
-can this just to buy them braille or 
-don't know prayed during steps sometimes
-In case 
-have the problem or some something 
-cannot influence
-
-think it's good not to worry about it
-Because if you worry about something you cannot change that's bad
-So you spent a lot of resources and the other example be nothing like for sure
-So my plan is just read the news
-
-don't know follow this agenda but don't worry about it
-Okay
-Yeah let's let's get down to business
-So let me try to open my
-Our schedule
-
-have to reboot my B
-today so 
-lost this 
-was pressured
-Okay this one
-Okay so the good news good news we are on track right and here
-We're meeting number five so today we're going to discuss with the AP
-and local installation
-The bad news 
-took a look at some of the frameworks like two or three maybe five but not like very very high level
-
-like the blog posts you guys made so 
-like the pictures and 
-think 
-will share some of my favorite pictures next time
-So 
-assume 
-will need this weekend to check them and probably to add in the like set some marks or something like that
-So just give me some time but 
-haven't found any like critical problems there
-Just remember to to share the workflow how you how you did that like for the first task
-So 
-need to see like what problems you've been using and don't forget about the pictures so the pictures are necessary for our blog post
-So 
-think we're going to focus on on that probably either on this lecture or this one
-We're going to have time to review the homework
-So what today we're going to discuss with this AP
-and this is very
-Let me show this slide
-So here here are the slides for today
-So what is the visper and why we discussing that so mostly when people discuss the generator for you or a general so if I'm focused on like LLAMs
-
-know like a pilot's functions and stuff like that
-So everything that works with text right because it has more application to the business when you work with text but still usually what is being forgotten is images and audio processing can't
-
-got in the images
-
-can't say this like easier to monetize this
-So not to my business applications
-So 
-know a lot of
-
-know a lot of cases where clients came to us like to come and ask to create something like 
-don't know maybe a rate of over a hundred of cases
-And only on this several them were related to image generation but some of them
-Like more more this case more of these cases are related to audio and one of the usual like request is O
-guys we have 5000 hours of recordings of 
-don't know meetings or customers calling us for the support
-So we need to understand this data right
-So imagine you have a first line support like people calling like real users calling describing the issue and the operators are just sharing
-So what what should you do to solve it and you need to control it somehow right so you need to see what are the most of the questions
-So what are the answers is the client is happy or not right and for this case you need to voice processing and processing the voice is actually very old technology
-
-don't remember how old it is but like two things here usually working is text to speech and speech to text and if we check 
-didn't know like let's check
-Asia or Texas Beach O
-say yeah is patient all right 
-got it everything is a yeah now let me check the pricing actually
-Did he has pricing it's super cheap it's super cheap
-O
-
-think here
-So this is O
-free tier all right basically all right didn't need this one so speech to text so in order to transcript something like if you have a phone call real time transcription one dollar per hour that's too much
-O
-batch transcription so if 
-have a lot of audio calls 
-didn't know like one agreed 
-can post them as a batch and this will result me in 80 cents per hour so not too much actually
-Yeah as usually like Microsoft is like very complicated well very complicated stuff for billing so it's hot understand how much you will spend
-And here is like the text of speech so basically to two directions like from speech you can extract text and from text you can generate speech right and this is like the standard voice 
-think this standard voice become neural like during like last year because previously they had different
-They had a different pricing like the standard voice is like this robotized voice usually here when you call a bank or something and neural voice is like more pleasant more realistically more naturally not on
-So right now 
-don't think 
-should have some kind of like cheap voice like this old cheap voice probably it's inside the easy way studio but the trick is it's not expensive right so one billion characters is like
-It's a lot
-$15 for business it's like well not too much 
-think so
-And in case we have 1000 of like phone calls transcript it so it will result as is only like less than $200 so that's that's acceptable for that
-And they definitely use machine learning there right so because there's no way programmatically like algorithmically to transcribe the speech
-But still the interesting thing here is it's also possible to use machine learning techniques and all this concept of token we've been discussing previously right in working with speech in understanding this speech
-And the project the project 
-would like to show you this whisper so let me find it should be here in the notes 
-put
-Yeah this one
-It wasn't introduced very similar once the child GP
-arrived right so
-
-just trying to recognize what was the time when charge it's your least okay
-And chat
-
-released
-Okay November 30 all right 2022 yeah so they introduced this per like couple of months before charge it
-And then what happens like do you remember this movie
-Certains floor
-This one
-So do you know this movie
-It's kind of like popular from scientific perspective but they they got the problem right so this is the cyber like not so cyberpunk but probably like
-Interesting science fiction but take a look at the release years 1999 the problem is that in 1999 this movie gets out matrix
-And that's why like everyone know about the matrix it was like very successful movie and this is the reason
-Much more less people know that this movie for even exists
-If they are all is it like a year previous before matrix so much more success on the same is the whisper right so
-Charge it really is November 30 and this per actually the same company open here but it was not so hyped
-In September as it become in November right
-So what they introduced is they actually been working like at the same time looks like
-They've been working at the visper and parallel like working with Shazup is right so
-They reused the same like not the same but similar architecture like in quarters decoders and tokens to predict the tokens but not from
-Text but from audio as well so they just take a look at the audio right and in the paper so they share like
-This one so they took
-680 thousand hours of multilingual audio so they sliced it in 30 seconds time like steps not steps but chunks and
-The train the model the train the model against it using the same approach
-The useful for the GP
-so pretty the same like slice the data into some some samples
-Try to predict the tokens like compare with the result learn train the model and so on so and this results in very interesting thing
-Very high quality and 
-don't know if there any model right now which can be it's equality of visper because once it was released it was like very high quality they released another model
-Couple of months ago 
-think it's called this but their protection seems to stay to stay the same so
-And one more interesting thing here is it's completely open sourced so you can download it and it doesn't require a lot of VRA
-to run so you can run it on the GP
-you can run it a bit slower on the CP
-and as far as it's like not large language model it will perform like with acceptable acceptable speed I've been running it at the CP
-once and it works
-Normally so not so slow as the L
-so we are not so interested in technical details and 
-don't understand them actually just
-To explain to you but what we're interested in is actually we're interested in the result right so how it works and how 
-can use it so how how to use it so you just install it as a python package but you need by touch and this is like why I
-
-mentioned the PyTorch previously so in order to install it locally so you must have the PyTorch and
-This is the command which should be a PyTorch
-Download probably now come on where's download get started on here install okay like if you would like to try visper right or
-In future if you would like to work with PyTorch so that's like two options here so it doesn't matter which version you will be installing you're going to see
-The same table for every time like it's couple of years the same so
-If installing it like in straightforward like recommended way like usually it's windows python package or people python and here is like kuda or CP
-and depending on what you will select the UR
-will be different right so kuda is the accelerated computing framework created by Nvidia as far as 
-remember by Nvidia
-To run the computations on the GP
-and if you download and install this PyTorch you will be running everything against the GP
-but if you do not have GP
-right so you can install it without like just the CP
-and it will be the same PyTorch it would work the same but much more slow right but it will still work so you need
-So you need to prior to install the PyTorch so first you need to Python next you need to select the kuda version so usually the later the better you just copy this install and actually 
-did that today because my PyTorch
-Not PyTorch but visper failed to run today so I've been preparing to the demo and 
-also have like the
-Some files audio files so and the problem is why
-Facing them and you may face the same so let me
-Let me show you so the problem with python is that
-Somehow like for for for modern applications 
-use numpy version to so numpy is a framework is a library to working like with numbers in Python and it's required by PyTorch but this this PyTorch and it's like implementation in visper
-It doesn't work with numpy 2.0.2 so it requires like old version and that's that's kind of problem you may face as well so what 
-did is actually 
-installed
-Like virtual environments so 
-created a virtual Python environment and downloaded once again PyTorch
-visper and all the stuff so at least now it works right so that's that's the problem you may face with
-So working with any software in Python at least 
-think they should be some kind of work around but taking a look at how many people using the virtual environments 
-think this is this is the acceptable work around so getting back here so what you need is just to install the library and that's it you can install it from source but 
-prefer like this lazy option and
-It also requires ff and pack so ff and pack
-This is the most popular library to working with audio and video so and actually this may be useful for you in future so 
-know like working in development or
-Just processing media like audio and video requires you to convert files from one format to another split them 
-don't know change the betrayed anything so everything can be done with the ff and pack but ff and pack is a common line interface like like it's a program which allows you to do everything but without the user interface without the U
-but you can you can work with it programmatically so for example this is how you can convert from np4 to the
-Maybe like the old format right and this is like the the greatest software and the fastest solution right now 
-think so a lot of
-Audio and video converting software use ff and pack and the hood so it will be necessary as well if you would like to start with whisper because whisper will need to transform the
-Data from one format to another so for example in my example so i'm going to use mp3 but in some cases it may be one format or something like that so this can be to try to transform from one format to another and here are the models and languages so as far as it's machine learning model right so you can pick up any
-Model and getting back here so remember we've been discussing this like model card
-Quantization distillation and so on so different models right so this is like certain bill and model this is 70 billion model the same with whisper so this model has 39 million parameters it's tiny and it requires only one gigabyte of video RA
-like VRA
-and it's very fast right
-So assuming the large model has like 1.5 billion parameters to occupy 10 gigabytes of VRA
-and the speed is one like one 
-right so this one is 10 times faster and turbo is 8 times faster and that's it they they have large V2 and large V3
-And what's more interesting here is the quality so the quality here is measured in W.E
-Air like world error rate so it just evaluating how much how many words like mispredicted like how many words are wrong and you can you can see the languages here so depending on the data set and probably the language structure
-This really differs right so i'm not surprised the Spanish is the has like less errors than any other languages because Spanish at least from my perspective 
-know like a couple of words and it's it looks like very easy language like straightforward and kind of easy
-Yeah and some of the languages probably like in the presence in the internet will result in like half of the words misspelled like Belarusian 
-don't know 
-think 
-need to 
-know Belarusian language and 
-think 
-need to find some podcast in Belarusian and try to feed it into the whisper and check like it works but this someone strange because 42 out of 100 comparing
-To six in Ukrainian so Belarusian Ukrainian super similar super similar so 
-can understand like 90% of Ukrainian and Ukrainians understand 90% of Belarusian probably is the problem in the data set right
-Okay but in case like in most cases we're going to work with English right so working with this language is super cool and a common line usage is pretty easy
-So let's run the let's run the example and for the example 
-have the
-
-took the matrix movie and you know the like there is a scene
-Agents meet a stock and was more fused
-
-just let you just let you just
-Agents meet his his delivering the speech about like the humans and not sure you will be able to
-To hear it because I'm using teams in in browser so it's not desktop applications so 
-can't share
-My audio but here is like the agents meet is interrogating more feels and he's delivering the speech like 
-got the idea so human beings are a virus and we like the agents are the cure so 
-will drop you the link or you can just google it
-And we consider this is 
-picked this this sample because the like high quality speech and know any like music and background and something like that
-So let me try to run this and check how to work so default
-Whisperer
-We just need to call whisper and pass the parameter as the data file so right now is detecting the language is in first 30 seconds and the language is detected to English
-So you can do that actually mainly you can specify the language and here is the output right so this is like the Smith is fine
-Discussing it this is very precise actually this is very precise 
-think it's like
-Probably here we have the problems
-Yeah 
-think it's missing it's missing something still but 
-don't know what model I'm using so let me call the
-The usage
-Okay so a lot of things here so we are interested in the model so we can specify the model from here right so these are the available models 
-don't know which one is the default maybe small or base so 
-have a lot of 
-ramp so 
-can
-Actually a large launch large model so let's try with probably another model and you can also specify the language explicitly 
-don't think it will help us because it automatically recognize the business English one more thing actually very interesting thing you can do with this so here should be a parameter which is called prompt
-Let me find it
-Tress estimation okay model device output we're both
-The should be parameter which is called something like a prompt
-Yeah this one initial prompt so the trick is so by default it's now but let's get back to the idea so this per
-So this per works with tokens right and everything like in this architecture you can you can pass the system message so you can pass the system message and whisper
-I've been working once on English transcription task so we decided to make
-To transcribe the English assessments and other company so there is like an interview asking questions and the person replying and one of the idea was to calculate the
-
-don't know how it's called like the words like when the person is thinking like parasite words so it's not possible to do with just playing with her hardly possible but if you explicitly provide them in a prompt it will recognize them and also a lot of a lot of times in this dialogue they were mentioned to a company name e palm and
-There is no such word in in whisper data set so that's why
-It was looking for similar but if you provide it in initial prompt and it will like see this the same token combination it will just do not search for any other alternative so this is very powerful thing like I'm very underrated okay so let's get back here and let's try the model let me try different models and
-We're gonna see the performance like this speed let's try with tiny smallest model and let's check how fast to work pretty fast and let me try
-Okay pretty fast as well 
-don't see a big difference in speed here right at least this sample the sample is only one minute
-No okay yeah the final token was took the time and let me try large
-So the large should give us the highest quality
-Okay yeah you see the difference so large and turbo
-There's the tiny so the tiny you you can just understand what's what's going on in this discussion so if you don't care about particular worlds if you just would like 
-don't know
-To summarize it in future and make some decision like 
-don't know sentiment analysis something so maybe tiny is okay but still
-That's that's a lot of questions as far as 
-see
-But here the turbo and large so they work very effectively
-Alright so and once 
-run every model so it's getting downloaded so 
-don't think 
-started small so probably it will be downloading right now
-No no it's already downloaded 
-think yeah so once 
-selected large first time it started downloading all of this model like one and a half gigabytes of model locally
-So if you have a lot of files 
-didn't know million of hours so what you just need
-
-just need a P
-so you can use it in cloud right so let's check the pricing opening a call
-
-pay pricing so you can do that with AP
-let me scroll to the whisper
-Fintany and create time systems
-Okay images audio models okay so what we're going to pay we're going to pay 0.16 cents per minute so let's let me calculate one hour
-So 0.16 cents per minute so it means one hour will cost us 36 cents yeah so it means like 100 hours of transcription will result in 36 dollars
-So this should be some point where it's cheaper to purchase hardware and run it on your hardware and save the hardware for yourself instead of sending to the to the open the yeah right
-Yeah so in some cases it's more effective to do it on your own machine 
-didn't like spend the night
-Recreate some Python scripts and yeah regarding Python you can call it from Python as well so it's Python library so you can you can use it from command line but you can also here is the command I'm using
-It can also import it load the model and transcribe your own data just passing is the reference to the to the file right and here are the examples how we can do that with
-Despite them still it has one problem which probably be solved in some forks of the whisper like whisper 
-and so on the problem is it doesn't differentiate speakers so you will not see the difference between speaker one speaker to write so what 
-did in homework 
-shared the file with you where the there is a difference between speaker one
-And speaker to so here is no no any difference but the output formers maybe different right so let me call the help once again
-Here output format you can see we have a lot of different output formats TX
-VT
-SRTT
-V
-zone all let's try
-Let's try to run with all but probably all is a default right so let me share
-Okay yeah all is a default it means 
-already have all this information available so let's let's check it out if you like 
-zones you can run this
-Look before might it very good right.
+ Good evening, guys.
+ Good evening.
+ Hello.
+ Do you choose the.
+ Mr.
+ Stage is all or not yet.
+ I don't know.
+ I choose it.
+ Maybe to that.
+ Let's go.
+ Oh, so.
+ Like sure.
+ Today's the deadline.
+ It's just the.
+ By the way, do we have strict delays for homework, guys?
+ No.
+ I don't know.
+ It's not that strict because I.
+ I did.
+ Yeah, it was.
+ But I would suggest to find at least like 10 to 15 minutes every day.
+ How I am.
+ Because when it will come at the end.
+ It will be like everything, you know.
+ So at least I'm just trying to find 10 to 15 to 20 minutes doing doing like by small, small, small parts.
+ I think.
+ I'm more from this course or.
+ I'm others.
+ Any I think.
+ Other courses I think didn't give you homework yet.
+ Yeah.
+ They give.
+ Data.
+ Data processing.
+ They gave it gave.
+ He gave yesterday.
+ I think this file formats.
+ I.
+ I.
+ Yes, they.
+ I miss it.
+ The classes.
+ I will watch it.
+ Hmm.
+ Hello.
+ Hello.
+ All right.
+ I have a question.
+ I'm a feature.
+ I have a question.
+ I'm not sure you know where two days ago, and Google introduced quantum computers.
+ Yeah.
+ Our second lesson you said that there's a problem with the.
+ Model because they have a resource problem and what will be in the future about it?
+ Because the if Google, if we have, they have a quantum competitors.
+ I mean, they have a huge results.
+ Yeah, so that's really good, a situation.
+ I don't know how they work, like only very general concept of these cubies.
+ I've been studying quantum physics in university, like at least one year, probably two years, I can't remember.
+ A lot of electronics works on quantum effects, so for example some staff allows the electrons to jump the barrier.
+ They actually cannot jump, so they're tumbling through that.
+ No one knows how it works, but it works and we use it in TVs and smartphones.
+ That's it.
+ Some kind of some kind of magic.
+ It's still I think they should be some kind of scientific explanation that I don't know how these quantum computers work.
+ I don't understand the concept of something having the value of zero and one at the same time, because like, okay.
+ I can imagine that, but how about the storage, right?
+ So if I talk about like HDD or SSD, any storage, so you need to write it.
+ And you need to like you should be able to read it in the future.
+ And the most fear like two fears I remember like from the community regarding quantum computers is, okay, if they are so like powerful and can make like much more like, I don't know, it's the same computer, it's per second, so what about the encryption, right?
+ So RSA or any other encryption algorithm.
+ So basically encryption works like modern encryption works on the very basic example, like, there are how it's called like one way function in math.
+ I don't know how is an English.
+ and the structure of the function.
+ So the way, like, it's very easy to calculate this.
+ For example, it's very easy to multiply it to prime integers and get the result.
+ But it's super hard to understand, like, what are the integers you multiply if you received this result?
+ And a lot of encryption is based on that, and actually Bitcoin is based on that.
+ So Bitcoin has several, like, Bitcoin has a lot of protocols inside, like, technologies.
+ And most of them, like, top tier encryption we have right now.
+ So if Google can beat that, so they can possibly, like, hijack all the new bitcoins.
+ Maybe they can rewrite the whole Bitcoin, like, the whole blockchain, like, in a day, and I didn't know, like, steal all the bitcoins from us.
+ So a lot of, like, military applications, like all this encryption and networking.
+ So I don't know.
+ It's technically possible that the SASH technology can appear, but taking an account how much time and money and resources and smart people it takes to build SASH think.
+ So maybe the first country which builds it, I mean, you know, like, who creates some kind of, like, snow crash, like, from Cyberpunk books, I don't know.
+ So we'll see.
+ At least, like, I know, like, from what I understand, like, IT history and technology history, like, all the new, like, top tier technologies, they have, like, two applications, like, the two industries, basically driving them fast in, like, making them broadly available is porn industry and military.
+ So this is like two things, usually picking up the latest SASH and trying to get, like, money of that.
+ And maybe one of them will pick it up.
+ I don't know.
+ Maybe military first.
+ So I think, and they see the new applications of quantum stuff.
+ Yeah, but from personal perspective, like being a human, like, I don't know, like, IT guys.
+ So yeah, that's interesting.
+ But unless I cannot benefit from that, I can, unless I cannot, like, earn money doing that.
+ So it's inevitable for me, like, the sun, the sun just can stop.
+ I don't know, like, okay.
+ But example, because the earth rotates across the sun.
+ So the earth can just stop rotating.
+ And it will be infinite night for me.
+ So I can't do anything about that.
+ I can't do anything about rain.
+ So what I can do is just to buy them braille, or I don't know, pray during stops sometimes.
+ So in case I have the problem or some thing, I cannot influence, I think it's good not to worry about it.
+ Because if you worry about something, you cannot change.
+ That's bad.
+ So you spend a lot of resources.
+ And the other example will be nothing, like, for sure.
+ So my plan is just read the news.
+ I don't know, follow this agenda, but don't worry about it.
+ Okay.
+ Yeah, let's get down to business.
+ So let me try to open my, open our schedule.
+ I have to reboot my BC today.
+ So I lost this X was pretty shit.
+ Okay, this one.
+ Okay, so the good news, good news, we are on track, right?
+ And here, here we are meeting number five.
+ So today we're going to discuss with the API and local installation.
+ The bad news, I took a look at some of the frameworks, like two or three, maybe five, but not like very, very high level.
+ I like the blog posts you guys made.
+ So I like the pictures.
+ And I think I will share some of my favorite pictures next time.
+ So I assume I will need this weekend to check them and probably to add in the exact same marks or something like that.
+ So just give me some time.
+ But I haven't found any like critical problems there.
+ So just remember to share the workflow, how you how you did that, like for the first task.
+ So I need to see like what problems you've been using.
+ And don't forget about the pictures.
+ So the pictures are necessary for our blog post.
+ So I think we're going to focus on that probably either on this lecture or this one.
+ We're going to have time to review the homework.
+ So today we're going to discuss the BC.
+ And this is very, let me show this slide.
+ So here are the slides for today.
+ So what is the visper and why we're discussing that?
+ So mostly when people discuss the generator for AI or AI in general, so a focus stone like LLAMs, I know like a pilot, functions and stuff like that.
+ So everything that works with text, right?
+ Because it has more application to the business when you work with text, but still, usually what is being forgotten is images and audio processing.
+ Can't get in the images.
+ I can't say this like easier to monetize this.
+ So not to my business applications.
+ So I know a lot of.
+ I know a lot of cases where clients came to us like to do and ask to create something like I don't know, maybe I read over a hundred of cases.
+ And only on the several of them related to image generation, but some of them.
+ Like more modest, more of these cases are related to audio and one of the usual request is, okay, guys, we have 5,000 hours of recordings of, I don't know, meetings or customers calling us for the support.
+ So we need to understand this data, right?
+ So imagine you have a first line support like people calling like real users calling, describing the issue and the operators are just sharing.
+ So what should you do to solve it?
+ And you need to control it somehow, right?
+ So you need to see what are the most of the questions or what are the answers.
+ So is the client is happy or not, right?
+ And for this case, you need to voice processing and processing the voice is actually very old technology.
+ I don't remember how old it is, but like two things here, usually working is text-to-speech and speech-to-text.
+ And if we check, I didn't know, like, let's check, Asia or Texas speech.
+ Okay, it's a Y-speech now, all right, I got it.
+ Everything is a Y-now.
+ Let me check the pricing actually.
+ DTS pricing.
+ It's super cheap.
+ It's super cheap.
+ Okay, I think here.
+ So this is.
+ Okay, free tier, all right.
+ Basically, all right, didn't need this one.
+ So speech-to-text.
+ So in order to transcript something like if you have a phone call, real time transcription, $1 per hour, that's too much.
+ Okay, buy transcription.
+ So if I have a lot of audio calls, I didn't know, like, one, I'm great.
+ I can post them as a batch.
+ And this will result me in 80 cents per hour.
+ So not too much actually.
+ Yeah, as usually like Microsoft has like very complicated, well, very complicated stuff for billing.
+ So it's hard to understand how much you will spend.
+ And here is like the text of speech.
+ So basically to two directions, like from speech, you can extract text and from text, you can generate speech, right?
+ And this is like the standard voice.
+ I think this standard voice become neural, like during, like last year, because previously they had different.
+ They had a different pricing.
+ Like the standard voice is like this robotized voice, usually here when you call a bank or something.
+ And neural voice is like more pleasant, more realistically, more naturally, not told.
+ So right now, I don't think they should have some kind of like cheap voice, like this old cheap voice.
+ Probably it's inside the easy way studio, but the trick is it's not expensive.
+ Like I guess it's not expensive, right?
+ So one billion characters is like, it's a lot.
+ $15 for business.
+ It's like, well, not too much, I think.
+ And in case we have 1000 of like phone calls transcripted.
+ So it will result as is only like less than $200.
+ So that's acceptable for that.
+ And they definitely use machine learning there, right?
+ So because there's no way programmatically, like algorithmically to transcribe the speech.
+ But still, the interesting thing here is it's also possible to use machine learning techniques and all this concept of token we've been discussing previously, right?
+ In working with speech, in understanding this speech.
+ And the project, the project I would like to show you this whisper.
+ So let me find it should be here in the notes I put.
+ Yeah, this one.
+ It wasn't introduced very similar once the child GPC arrived, right?
+ So.
+ And just trying to recognize what was the time when charge IPT released.
+ Okay.
+ Chat.
+ GPC.
+ Released.
+ Okay, November 30.
+ All right, 2022.
+ Yeah, so they introduced this per like couple of months before charge IPT into know what happens like.
+ Do you remember this movie?
+ So this one.
+ So do you know this movie?
+ It's kind of like popular from scientific perspective, but they they got the problem, right?
+ So this is the cyber like not the cyberpunk, but probably like interesting science fiction.
+ Take a look at the release years 1999.
+ The problem is that in 1999.
+ This movie gets out matrix.
+ And that's why like everyone know about the matrix.
+ It was like very successful movie.
+ And this is the reason.
+ Much more less people know that this movie thought is for even exists.
+ If they are all easy like a year previous before matrix, so much more success.
+ So the same is the whisper, right?
+ So charge IPT release November of the team and whisper actually the same company opened here, but it was not so hyped.
+ In September, as it become in November, right?
+ So what they introduced is they actually been working like at the same time looks like.
+ They've been working at the whisper and parallel like working with charge IPC, right?
+ So they reused the same like not the same, but similar architecture like encoders, decoders and tokens to predict the tokens, but not from text, but from audio as well.
+ So they just take a look at the audio, right?
+ And in the paper, so they share like.
+ This one.
+ So they took.
+ Six hundred.
+ 80,000 hours of multilingual.
+ Audio.
+ So they sliced it in 30 seconds.
+ Time like steps, not steps, but chunks.
+ And they trained the model, the trained the model against it using the same approach.
+ They use for the GPT, so pretty the same like slice the data into some samples.
+ Try to predict the tokens like compare with the result, learn, train the model and so on.
+ So, and this results in a very interesting thing.
+ Very high quality and I don't know if there are any model right now, which can be it's inequality of whisper.
+ Because once it was released, it was like very high quality.
+ They released another model.
+ Couple of months ago, I think it's called whisper, but their architecture seems to stay to stay the same.
+ So, and one more interesting thing here is it's completely open sourced.
+ So you can download it and it doesn't require a lot of VRAM to run.
+ So you can run it on the GPU.
+ You can run it a bit slower on the CPU.
+ And as far as it's like not large language model, it will perform like with acceptable acceptable speed.
+ I've been running it at the CPU once and it works normally.
+ So not so slow as the LLM.
+ So we are not so interested in technical details and I don't understand them actually just to explain to you.
+ But what we're interested in is actually we're interested in the result.
+ So how it works and how I can use it.
+ So how to use it.
+ So you just install it as a Python package, but you need by touch.
+ It's like why I mentioned the PyTorch previously.
+ So in order to install it locally.
+ So you must have the PyTorch and.
+ And this is the command.
+ It should be a PyTorch.
+ Download probably now.
+ Come on, where's download?
+ Get started.
+ Here install.
+ Okay, like if you would like to try this per right or in future if you would like to work with PyTorch.
+ So there's like two options here.
+ So it doesn't matter which version you will be installing.
+ You're going to see.
+ The same table for every time like it's couple of years the same.
+ So.
+ If you installing it like in straightforward like recommended way.
+ Like usually it's windows.
+ Python, package, or people.
+ Python.
+ And here is like CUDA or CPU.
+ And depending on what you will select.
+ The URL will be different, right?
+ So CUDA is the accelerated.
+ Computing framework created by Nvidia as far as I remember by Nvidia.
+ To run the computations on the GPU.
+ And if you download and install this PyTorch.
+ You will be running everything against the GPU.
+ But if you do not have GPU, right?
+ So you can install it.
+ Without like just the CPU.
+ And it will be the same by torch.
+ It would work the same, but much more slow, right?
+ But it will still work.
+ So you need to prior to install the PyTorch.
+ So first you need to Python.
+ Next you need to select the CUDA version.
+ So usually the later the better you just copy this and style.
+ And actually I did that today because my PyTorch.
+ Well, not PyTorch, but whisper failed around today.
+ I've been preparing to the demo and I also have like the.
+ Some files.
+ Audio files.
+ So and the problem is why.
+ Facing them and you may face the same.
+ So let me.
+ Let me show you.
+ So the problem with Python is that.
+ Now like for.
+ For modern applications, I use Nampai version 2.
+ So Nampai is a framework is a library to working like with numbers in Python.
+ And it's required by PyTorch.
+ But this.
+ This PyTorch and it's like implementation in whisper.
+ Doesn't work with Nampai 2.
+0.
+ So it requires like old version.
+ And that's that's kind of problem you may face as well.
+ So what I did is actually I installed.
+ Like virtual environment.
+ So I created a virtual Python environment and downloaded once again.
+ PyTorch.
+ Whisper and all the stuff.
+ So at least now it works right.
+ So that's that's the problem you may face with working with any software.
+ So I think that's the problem.
+ So I think that's the problem.
+ And I think that's the problem.
+ At least I think they should be some kind of work around.
+ But taking a look at how many people using the virtual environments.
+ I think this is this is the acceptable work around.
+ So getting back here.
+ So what you need is just to install the library.
+ And that's it.
+ You can install it from source.
+ But I prefer like this lazy option.
+ And.
+ It also requires FF impact.
+ This is the most popular library to working with audio and video.
+ So.
+ And actually.
+ This may be useful for you in future.
+ So I know like working in development or.
+ Just processing media like audio and video requires you to convert files from one format to another.
+ Split them.
+ I don't know change the beat rate and anything.
+ So everything can be done with the FF impact.
+ But FF impact is a command line interface like.
+ It's a program which allows you to do.
+ Everything.
+ But without the user interface without the UI.
+ But you can you can work with it programmatically.
+ So for example, this is how you can convert from N before to.
+ Av like the old format, right.
+ And this is like the.
+ The greatest software and the fastest solution right now.
+ I think.
+ So a lot of.
+ Audio and video converting software use FF impact.
+ So it will be necessary as well.
+ If you would like to start with whisper.
+ Because whisper will need to transform the.
+ The data from one from a twin others.
+ For example, in my example, I'm going to use.
+ MP3.
+ But in some cases, it may be one format or something like that.
+ So this will need to try to transform from one format to another.
+ And here are the models and languages.
+ So as far as it's machine learning model, right.
+ So you can pick up any.
+ Model and getting back here.
+ So remember, we've been discussing this like model card.
+ And the.
+ Quantization distillation and so on.
+ So different models, right.
+ So this is like 13 billion model.
+ This is 70 billion model the same with whisper.
+ So this model has 39 million parameters.
+ It's tiny and it requires only one gigabyte of video.
+ Ram like V.
+ Ram.
+ And it's very fast, right.
+ So assuming the large model has like 1.
+5 billion.
+ To occupy 10 gigabytes of V.
+ Ram and the speed is one like one X, right.
+ So this one is 10, 10 times faster and turbo is 8 times faster.
+ And that's a day they have large V to and large V 3.
+ And what's more interesting here is the quality.
+ So the quality here is measured in W.
+ W-E-A-R, like word error rate.
+ So it just evaluating how many words mispredicts how many words are wrong.
+ And you can see the languages here.
+ So depending on the dataset and probably the language structure, this really differs, right?
+ So I'm not surprised this Spanish is the, has like, less errors than any other languages because Spanish, at least from my perspective, I know like a couple of words.
+ And it's, it looks like very easy language, right?
+ Like straightforward and kind of easy.
+ Yeah, and some of the languages probably lacking the presence in the internet will result in like half of the words mispelled like Belarusian.
+ I don't know, I think I need to, I know Belarusian language and I think I need to find some podcasts in Belarusian and try to feed it into the visper and check like it works.
+ But this, this someone strange because 42 out of 100 agreed comparing to six in Ukrainian.
+ So Belarusian and Ukrainian are super similar, super similar.
+ So I can understand like 90% of Ukrainian.
+ And Ukrainians understand 90% of Belarusian.
+ Probably is the problem in the dataset, right?
+ Okay, but in case like in most cases we're gonna work with English, right?
+ So working with these languages are super cool.
+ And common line users is pretty easy.
+ So let's run the, let's run the example and for the example, I have the, I took the matrix movie and you know, like there is a scene, Agents meet a stock and it was more fused.
+ Let me just matrix, Agents meet his, his delivering the speech about like the humans.
+ I'm not sure you will be able to, to hear it because I'm using teams in, in browsers.
+ So it's not desktop applications.
+ So I can't share my audio, but here is like the, the Agents meet is interrogating more fused and he's delivering the speech like, I got the idea.
+ So human beings are a virus and we, like the Agents are the cure.
+ So I will drop you the link or you can just google it.
+ And, and reconsider this is, I picked this sample because the like high quality speech and know any like music in background and something like that.
+ So let me try to run this and check how it will work.
+ So default whisperer.
+ I just need to call whisper and pass the parameter as the data file.
+ So right now is detecting the language.
+ Isn't first or the second sent the language is detected to English.
+ So you can do that actually, mainly you can specify the language and here is the output, right?
+ So this is like the Smith is, discussing it, this is very precise.
+ Actually, this is very precise.
+ I think it's like, probably here we have the problems.
+ Yeah, I think it's messing, it's messing something still.
+ But I don't know what model I'm using.
+ So let me call the, the usage.
+ Okay, so a lot of things here.
+ So we are interested in the model.
+ So we can specify the model from here, right?
+ So these are the available models.
+ I don't know which one is the default, maybe small or base.
+ So I have a lot of VRAM.
+ So I can actually launch large model.
+ So let's try with probably another model.
+ And you can also specify the language explicitly.
+ I don't think it will help us because it automatically recognized the business English.
+ One more thing actually, very interesting thing.
+ You can do with this.
+ So here should be a parameter, which is called prompt.
+ You find it.
+ Tress, automation.
+ Okay, model device, output, we're both.
+ The ship a parameter, which is called something like a prompt.
+ No.
+ Yeah, this one initial prompt.
+ So the trick is, so by default, it's not, but let's get back to the idea.
+ So this per.
+ So this per works with tokens, right?
+ And everything like in this architecture, you can, you can pass the system message.
+ So you can pass the system message and whisper.
+ And I've been working once on English transcription task.
+ So we decided to make.
+ To transcribe the English assessments in other companies.
+ So there is like an interviewer asking questions and the person replying.
+ And one of the idea was to calculate the.
+ I don't know how it's called like the world's like, when the person is thinking, like, parasite words.
+ So it's not possible to do with just playing with Per.
+ Hardly possible, but if you explicitly provide them in a prompt, it will recognize them.
+ And also a lot of times in this dialogue, they were mentioned to a company name, EEPAM.
+ And there is no such word in whisper data set.
+ So that's why it was looking for a similar, but if you provide it in initial prompt, and it will like see the same token combination, it will just do not search for any other alternatives.
+ So this is very powerful thing, like, I'm very underrated.
+ Okay, so let's get back here and let's try the model.
+ Let me try different models.
+ And we're gonna see the performance like this speed.
+ Let's try with tiny, smallest model.
+ And let's check how fast it will work.
+ Pretty fast.
+ And let me try Turbo.
+ Okay, pretty fast as well.
+ I don't see a big difference in speed here, right?
+ At least at this sample, the sample is on the one minute.
+ No, okay, yeah.
+ The final token was took the time and let me try large.
+ So the large should give us the highest quality.
+ Okay.
+ Yeah, you see the difference.
+ So large and turbo versus the tiny.
+ So the tiny, you can just understand what's what's going on in this discussion.
+ So if you don't care about particular worlds, if you just would like, I don't know, to summarize it in future and make some decision, like I didn't know sentiment analysis, something so maybe tiny is okay, but still that's a lot of questions as far as I see.
+ But here the turbo and the large, so they work very effectively.
+ All right.
+ So and once I run every model, so it's getting downloaded.
+ So I don't think I started small, so probably it will be downloading right now.
+ No, no, it's already downloaded.
+ I think yeah, so once I selected large first time, it started downloading all of this model, like one and a half gigabytes of model locally.
+ So if you have a lot of files, I didn't know, million of hours.
+ So what you just need, just need a PC.
+ So you can use it in cloud, right?
+ So let's check the pricing, open the icon.
+ API pricing.
+ So you can do that with API.
+ Let me scroll to the whisper, fine tuning, create time, systems.
+ Okay, images, audio models.
+ Okay, so what we're gonna pay, we're gonna pay 0.
+16 cents per minute.
+ So let's, let me calculate one hour.
+ Okay, well.
+ So.
+ 0.
+16 cents per minute.
+ So it means one hour will cost us 36 cents.
+ Yeah, so it means like 100 hours of transcription will result in 36 dollars.
+ So this should be some point where it's cheaper to purchase hardware and run it on your hardware and save the hardware for yourself instead of sending to the open AI, right?
+ Yeah, so in some cases it's more effective to do it on your own machine.
+ I didn't like spend the night to create some Python scripts.
+ And yeah, regarding Python, you can call it from Python as well.
+ So it's Python library.
+ So you can, you can use it from command line, but you can also, here is the command line usage.
+ You can also import it.
+ Load the model and transcribe your own data, just passing as the reference to the file, right?
+ And here are the examples how you can do that with, with Python.
+ Still, it has one problem, which probably be solved in some forks of the whisper, like whisper X and so on.
+ The problem is it doesn't differentiate speakers.
+ So you will not see the difference between speaker one and speaker two, right?
+ So what I did in homework, I shared the file with you, where there is a difference between speaker one and speaker two.
+ So here is no any difference, but the output formers may be different, right?
+ So let me call the help once again.
+ Here, output format, you can see, we have a lot of different output formers, TXT, VTT, SRT, T SVG zone, all.
+ Let's try, let's try to run with all, but probably all is a default, right?
+ So let me share.
+ Oh, okay, yeah, all is a default.
+ It means I already have all this information available.
+ So let's check it out.
+ If you like JSounds, you can run this, with me for a minute.
+ Very good, right?
