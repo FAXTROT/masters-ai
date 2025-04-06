@@ -57,10 +57,10 @@ Steps: 20, Sampler: Euler, Schedule type: Simple, CFG scale: 1, Distilled CFG Sc
 
 final result:
 
-![music](movie/Final_result.png)
+![music](music_album/Human_Three_days_Grace.png)
 
 
 original:
 
-![music](movie/reference.png)
+![music](music_album/reference.png)
 
