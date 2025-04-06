@@ -1,0 +1,10 @@
+Three days Grace - Human album
+
+Prompt:
+A stylized, surreal humanoid figure standing upright, directly facing the viewer with a blank, mask-like face and glowing red circular eyes set in a dark, featureless head. The body is translucent, with a chaotic, illustrated fusion of mechanical parts and abstract anatomical structures—ribs, gears, tubing, and spirals—visible inside the torso. The color palette includes black, deep red, electric blue, and burnt orange. The background is divided horizontally: stark black above, pale beige or white below. The figure and internal components are rendered in a flat, graphic, semi-abstract style, with no photorealism. Visual reverberation and glitch effects subtly distort the edges of the figure—lines duplicate, echo, or fragment like a digital glitch or soundwave reverberation, enhancing the sense of disintegration. The style evokes dystopian, conceptual themes with a cold, detached atmosphere.
+
+Steps: 20, Sampler: Euler, Schedule type: Simple, CFG scale: 1, Distilled CFG Scale: 3.5, Seed: 4124000554, Size: 512x512, Model hash: fef37763b8, Model: flux1DevHyperNF4Flux1DevBNB_flux1DevBNBNF4V2, Version: f2.0.1v1.10.1-previous-659-gc055f2d4, Module 1: ae
+
+Saved: 00000-4124000554.png
+
+SD-Forge used
